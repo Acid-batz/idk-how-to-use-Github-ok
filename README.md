@@ -5,10 +5,8 @@
 
 <div align="center">
 
-<h2 style="font-family: cursive;">୨ ATABUUK ୧</h2>
-
 <a href="https://kiribaku.atabook.org/">
-  <img src="https://img.shields.io/badge/Click%20to%20Sign-e3d6c1?style=for-the-badge&color=e3d6c1" />
+  <img src="https://img.shields.io/badge/%F0%9F%92%8C%20ATABUUK-e3d6c1?style=for-the-badge&labelColor=e3d6c1&color=e3d6c1&logoColor=6B4F3A" />
 </a>
 
 </div>
