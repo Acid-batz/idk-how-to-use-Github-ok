@@ -2,12 +2,10 @@
 
 
 
+<div align="center">
+
 <a href="https://kiribaku.atabook.org/">
-  <img
-    src="file:///C:/Users/Student/Downloads/%E2%99%A1%20CHAIROIKOGUMA%20_%20RILLAKUMA%20app%20icon.jpg"
-    alt="Sign my Atabook"
-    width="250"
-  />
+  <img src="https://img.shields.io/badge/%F0%9F%92%8C%20Sign%20My%20Guestbook-FFC0CB?style=for-the-badge&labelColor=FFB6C1" />
 </a>
 
 </div>
