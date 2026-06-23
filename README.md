@@ -1,4 +1,5 @@
-<img width="569" height="848" alt="download (7)" src="https://github.com/user-attachments/assets/edaeae86-c526-4f65-a644-e71dce0f2793" />
+<img width="569" height="420" alt="gaaracropped" src="https://github.com/user-attachments/assets/6f54209a-e515-4033-b268-ce8f0373191a" />
+
 
 
 
