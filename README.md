@@ -3,7 +3,8 @@
 
 <a href="https://kiribaku.atabook.org/">
   <img
-    src="https://i.pinimg.com/736x/f1/20/eb/f120eb73245e02ae3ddc9fac67c88298.jpg"
+    src="<"download (9)" src="https://github.com/user-attachments/assets/fbed406c-8cd7-45fc-af94-f2c992970877"" height="600" alt= />
+"
     alt="Sign my Atabook"
     width="300"
   />
