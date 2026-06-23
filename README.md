@@ -3,12 +3,13 @@
 
 <a href="https://kiribaku.atabook.org/">
   <img
-    src="<"download (9)" src="https://github.com/user-attachments/assets/fbed406c-8cd7-45fc-af94-f2c992970877"" height="600" alt= />
-"
+    src="./images/chairoikoguma-rillakuma.png"
     alt="Sign my Atabook"
-    width="300"
+    width="250"
   />
 </a>
+
+</div>
 
 
 
